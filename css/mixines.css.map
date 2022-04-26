@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEAA,OAAO,CAAC,2EAAI",
+    "sources": [
+        "../scss/mixines.scss",
+        "../scss/variable.scss",
+        "../scss/fonts.scss"
+    ],
+    "names": [],
+    "file": "mixines.css"
+}
